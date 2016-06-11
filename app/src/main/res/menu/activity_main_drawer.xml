@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@mipmap/ic_action_info"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/facebook"
+            android:icon="@mipmap/ic_action_facebook"
+            android:title="@string/comunidad" />
+        <item
+            android:id="@+id/config"
+            android:icon="@mipmap/ic_action_gear"
+            android:title="@string/idioma" />
+        <item
+            android:id="@+id/app"
+            android:icon="@mipmap/ic_action_android"
+            android:title="@string/acerca_de_app" />
+    </group>
+    <item android:title="@string/ciudades" >
+        <menu>
+            <item android:id="@+id/la_paz" android:icon="@mipmap/ic_action_pin"
+                android:title="La paz" />
+            <item android:id="@+id/cochabamba" android:icon="@mipmap/ic_action_pin"
+                android:title="Cochabamba" />
+            <item android:id="@+id/santa_cruz" android:icon="@mipmap/ic_action_pin"
+                android:title="Santa Cruz" />
+            <item android:id="@+id/oruro" android:icon="@mipmap/ic_action_pin"
+                android:title="Oruro" />
+            <item android:id="@+id/sucre" android:icon="@mipmap/ic_action_pin"
+                android:title="Sucre" />
+            <item android:id="@+id/potosi" android:icon="@mipmap/ic_action_pin"
+                android:title="Potosi" />
+            <item android:id="@+id/tarija" android:icon="@mipmap/ic_action_pin"
+                android:title="Tarija" />
+            <item android:id="@+id/el_alto" android:icon="@mipmap/ic_action_pin"
+                android:title="El Alto" />
+            <item android:id="@+id/cobija" android:icon="@mipmap/ic_action_pin"
+                android:title="Cobija" />
+            <item android:id="@+id/trinidad" android:icon="@mipmap/ic_action_pin"
+                android:title="Trinidad" />
+            <item android:id="@+id/villazon" android:icon="@mipmap/ic_action_pin"
+                android:title="Villazon" />
+            <item android:id="@+id/tupiza" android:icon="@mipmap/ic_action_pin"
+                android:title="Tupiza" />
+            <item android:id="@+id/riberalta" android:icon="@mipmap/ic_action_pin"
+                android:title="Riberalta" />
+            <item android:id="@+id/wayaramerin" android:icon="@mipmap/ic_action_pin"
+                android:title="Guayaramerin" />
+            <item android:id="@+id/camiri" android:icon="@mipmap/ic_action_pin"
+                android:title="Camiri" />
+            <item android:id="@+id/bermejo" android:icon="@mipmap/ic_action_pin"
+                android:title="Bermejo" />
+        </menu>
+    </item>
+
+
+</menu>

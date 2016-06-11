@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name" translatable="false">My BoliviApp</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="tile_a" translatable="false">http://a.tile.openstreetmap.org/</string>
+    <string name="tile_b" translatable="false">http://b.tile.openstreetmap.org/</string>
+    <string name="tile_c" translatable="false">http://c.tile.openstreetmap.org/</string>
+    <string name="linck_g_map" translatable="false">https://www.google.com.bo/maps/place/</string>
+    <string name="title_activity_scrolling_lugar" translatable="false">ScrollingLugar</string>
+
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+    <string name="str_pt">Portuguese</string>
+    <string name="str_ja">Japanese</string>
+    <string name="str_zh">Chine</string>
+    <string name="str_ar">Arab</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_pt</item>
+        <item>@string/str_ja</item>
+        <item>@string/str_zh</item>
+        <item>@string/str_ar</item>
+    </string-array>
+    <string name="str_button">Change Language</string>
+
+    <string name="exit">Press again to exit</string>
+    <string name="permiso_para_gps">The application wants to access your location please activate your GPSS</string>
+    <string name="Esperando">Waiting..</string>
+    <string name="ver_mas">See more..</string>
+
+    <string name="informacion">Information..</string>
+    <string name="farmacia">Pharmacy</string>
+    <string name="hospital">Hospital</string>
+    <string name="centro">Clinic</string>
+    <string name="iglesia">church</string>
+    <string name="mirador">lookout</string>
+    <string name="policia">Police</string>
+    <string name="museo">Museum</string>
+    <string name="plaza">Square</string>
+    <string name="parque">Park</string>
+
+    <string name="fab_title_1">Help / police</string>
+    <string name="fab_title_2">hospital / pharmacy</string>
+    <string name="fab_title_3">Interesting places</string>
+    <string name="fab_title_4">Churches / places / museums</string>
+
+
+    <string name="Home">About Bolivia</string>
+    <string name="comunidad">Community</string>
+    <string name="idioma">Language</string>
+    <string name="acerca_de_app">About MyBoliviaApp</string>
+
+    <string name="desarrollado_por">DEVELOPED BY</string>
+    <string name="agradecimientos_">THANKS</string>
+
+    <string name="ciudades">cities</string>
+    <string name="cancelar">Cancel</string>
+
+    <string name="descripcion_app"><b>MyBoliviApp</b> is an application intended for tourist use of Bolivia for easy access to information in languages disticntos.\n\nShowing points that are useful to tourists with Brebes summarized in your language</string>
+    <string name="agradecimientos">Thanks to <b><u>NicolasMollet"Maps Icons Collection"</u></b> by the map icons.</string>
+
+    <string name="descripcion_titicaca">
+"Lake Titicaca is a body of water located in the Andean Altiplano, in the central Andes at an average altitude of 3812 meters above sea level between the territories of Bolivia and Peru. It has an area of ​​8562 square kilometers of which 56% (4772 km²) correspond to Peru and 44% (3790 km²) in Bolivia and 1125 km of coastline;. 2 its maximum depth is estimated at 281 m and its average depth is estimated at 107 m your level is irregular and increases during the austral summer \n. \n "
+        "It consists of two bodies of water separated by the Strait of Tiquina, the largest located in the north is called Lago Maggiore or Chucuito has an area of ​​6450 km², its greatest depth (283 m) being in this part, near the island Soto. the other smaller body called Minor or Huiñamarca located south has an area of ​​2112 square kilometers, with a maximum depth of 45 meters away.The lake Titicaca is among the Andean mountains in a basin of about 58,000 square kilometers. it is the highest in the world and ranks 19th in the world by surface navigable lake. \n "    </string>
+    <string name="descripcion_isla_del_sol">
+"The Island of the Sun or Titicaca island is a Bolivian island located in Lake Titicaca belonging to the province of Manco Kapac in the department of La Paz. It has a length of 9.6 km by 4.6 km wide with a surface 14.3 square kilometers. it is the largest lake island, its original name is Titikaka island and therefore the lake where is takes its name, which means "stone puma". \n \n "
+         "It presents a rugged terrain with many terraces due to the cultivation of ancient Inca people. The island Inca times was a sanctuary with a temple dedicated to the god virgin Sun or Inti and hence its name. \n \n"
+         "Most of the island is populated by indigenous Quechua and Aymara origin, dedicated to agriculture, tourism, crafts and grazing. The languages spoken are ancestral languages such as Quechua and Aymara, as well as the Spanish. \n "    </string>
+    <string name="descripcion_muela_de_diablo">
+"La Muela del Diablo is a hill located near the city of La Paz, Bolivia, 300 meters high. It is located between the mountains of the south, near the districts of Calacoto, Aunquisamaña, Los Pinos, Mallasa and Mallasilla . it is one of the sights of the city, visible from the city and El Alto. \n \n "
+        "Description \n
+        It is one of the eroded formations south of La Paz. A huge rock shaped like a human tooth that stands out from the rest, of a reddish color, hence the name Devil's Tooth. It is located on a clayey and slippery like a fjord \n \n "
+        "Myths and legends \n Some natives tell certain stories or legends about this hill. It is said that there was a battle between angels and demons in the sky, one of the archangels hit a demon and he spit his tooth falling where it is currently located the mountains in a struggle. they also have people who visit are delighted, besides also said that elves live there, even some testimonies about missing persons. \n "    </string>
+
+    <string name="descripcion_picion_de_san_pedro">
+"The prison of San Pedro or San Pedro prison is the largest prison in Bolivia located in the city of La Paz. It is known mainly for having an internal society. \n \n"
+        "Key Features \n The prison or penal St. Peter is particularly different from other prisons, inmates in this prison have jobs within the facilities, pay or rent their bedrooms, and often live with their families. The sale of cocaine to the tourists gives prisoners a significant influx of money and an unusual sense of freedom within the prison walls. Leaders prison elected previously enforce the laws of the community, where attacks with weapons sharps are common. \n \n "
+        "The prison holds about 1,500 inmates, most guests staying at the hotel from prison. The book" Marching Powder "(" Dust to be "in Spanish), written by Rusty Young, about his experiences during a stay four months visiting the prison was published in 2003. (the proposal from the novel by Rusty Young, based on their own experiences and those of Thomas McFadden (a former inmate of San Pedro), is not a reference to be be considered official. This is a novel, which highlights aspects of engaging plot the reader. the encyclopedia can have other valid information sources). \n "    </string>
+    <string name="descripcion_ilimani">
+        "Illimani, with 6462 meters above sea level, is a mountain of Bolivia, located near the city of La Paz. It is the second largest height of the Cordillera Real (the highest peak in Bolivia is the Sajama). It is located in the Pedro Domingo Murillo Province.\n\n"
+        "The contrast between the great depression where the city of La Paz and extensive white Illimani is located and surprisingly, to the southeast of the city. The distances between the Bolivian capital and the heights, between urban and Andean culture are minimal and few places in the world we find a combination as in La Paz. The evening twilights, with the always clear air of La Paz, are a spectacle; and as the city begins to glow in its entirety, the Illimani goes through different shades of colors, all colorful extinguished until the pale white and eternal snow and ice are the snowy, reversing the process at dawn. Illimani is a voice of the Aymara language means "golden eagle".\n \n"
+        "The Illimani is a huge mass of more than 8 km long and four peaks exceeding 6000 meters. These run from northwest to southeast, and one is the last snow of the Royal Cordillera from north to south; the north cord begins with the Nevado Illampu and ends in the south with the Illimani (southwest). The Illimani was formed by the pressure of tectonic plates and is composed of plutonic rocks (granodiorite and monzonite) with an age of between 208 and 23 million years.\n"
+    </string>
+    <string name="descripcion_plaza_murillo">
+"The Plaza Murillo is located in the center of the city of La Paz, became the center of political power in Bolivia after the transfer of the executive branch to La Paz as a result of the Federal War of 1899, maintaining the capital status in the city Sucre. \n \n "
+         "History \n The space was conceived 10 years after the founding of the City of Our Lady of La Paz on October 20, 1548, ie in 1558 by order of the mayor Ignacio de Aranda \ n \ n"
+         "This square was designed across the far from the main square in Churubamba where Alonso de Mendoza founded the city Choqueyapu River. The design reflected the ordinance of the Spanish cities outlined grid layout, with symmetrical, rectangular and apples same size \n "    </string>
+    <string name="descripcion_valle_de_la_luna">
+"The Valley of the Moon is a rock formation that lies about 10 kilometers from downtown La Paz, Bolivia, its name was given by Neil Armstrong first man on the moon, who was visiting at the headquarters of Bolivian government 1969. \n \n "
+        "The Valley of the Moon is a section where the erosion has consumed the top of a mountain. Not being the solid ground, clay instead of rock, over the centuries the elements have created a work of somewhat different art. it's like a desert of stalagmites. it is equal to another area of ​​La Paz, known as the Animas Valley. \n \n "
+        "The mountains around La Paz are clay. The interesting thing is that this clay contains certain minerals and it seems they are not the same or its percentage varies from one to another mountain. As consequences the color of the skirts is different, creating illusions very attractive optics. they are mostly a light color like beige or pale brown. areas that are almost red in addition to presenting dark violet colors are also available. \n "    </string>
+    <string name="descripcion_tiahuanaco">
+        "Tiahuanaco or Tiwanaku is an ancient capital city of Tiahuanaco archaeological state located in the Department of La Paz, Bolivia, 15 km southeast of Lake Titicaca. \ N \ n"
+        "Tiwanaku was the center of the Tiwanaku civilization, a pre-Inca culture that based its economy on agriculture, architecture and livestock, and covering the territories of the plateau of Collao, between southwestern Peru, southeastern Bolivia, the northwestern Argentina and northern Chile, regions from which radiated technological and religious influence to other contemporary civilizations to it. \n \n "
+        "The city of Tiwanaku is characterized by its architecture decorated with reliefs and incised drawings placed on stelae is composed of seven major architectural constructions: Kalasasaya, PA Semi-underground, Akapana Pyramid, Puerta del Sol and Puma Punku also great pyramids and sculptures . \n \n "
+        "Testimony of an important pre-Inca culture, the Tiwanaku culture had a port on Lake Titicaca but now it is at 15 km away from it. The magnificence of its culture is reflected in his excellent ceramic work with famous queros (ceremonial vessels) the huaco-portraits (three-dimensional portrait of a human face in a basin) as well as textiles and especially in architectural constructions, many of which have astronomical orientation. \n "    </string>
+
+    <string name="descripcion_Bolivia" >
+       "Bolivia (Quechua: Puliwya; Aymara: Wuliwya; Guarani: Volivia), officially Plurinational State of Bolivia, is a country located in central-western South America, has a population of about 10.1 million. Bounded on the north and east by Brazil, south to Paraguay and Argentina, and west with Chile and Peru, has no outlet to the sea. Its surface is the sixth largest in Latin America and comprises different geographical areas as the Andes, the Altiplano, the Amazon, the Llanos de Moxos and Chaco, thus being one of the most biodiverse countries in the world.
+
+Politically, it is constituted as a plurinational state, decentralized with autonomies. It is divided into nine departments and maintains a territorial claim to Chile for sovereign access to the Pacific Ocean. Sucre is the capital and seat of judiciary, while La Paz is the seat of the executive, legislative and electoral bodies.
+
+In its territory ancient civilizations like Tiwanaku, Hydraulic Culture of Hills and moxeña culture developed. First the Incas and later the Spanish conquerors dominated the territory until the country became independent in 1825. Having developed a crossbreeding traditions of pre-Columbian cultures with Spanish culture, is a rich multiethnic, multicultural country in the mixture and syncretism customs and traditions received from indigenous peoples and the Spanish conquistadors.
+
+Surface
+
+1 million km2 (approximately 2 times France).
+
+Population
+
+9.2 million inhabitants of which 70 100 people are natives (essentially Quechuas and Aymaras), 25 mestizos and 5 of European origin.
+More information: Peoples of Bolivia
+
+Official languages
+
+Spanish, Aymara, Quechua.
+
+official symbol
+
+The Kantuta, flower with the colors of the Bolivian national flag
+More information: The Legend of Kantuta
+
+Political regime
+
+Democracy. Despite its turbulent past, Bolivia has lived since 1981 under a stable democratic regime.
+
+Security
+
+- Our vocation is to accompany the paths of adventure, where others do not go. However, certain activities such as rafting or climbs in the Andes require compliance with certain safety standards. You will be accompanied by guides, equipped with quality material.
+- Bolivia is undoubtedly one of the safest countries on the continent. However, we warn against certain increasingly common practices, theft in general and fanciful scenarios (fake policemen, stains on clothes, spits, etc ...). Some places are more suitable than others, particularly the central bus or train, restaurants and in general all travelers frequented public places.
+We recommend to watch during their travel and stay in the city, traveling with the essentials, not leave their backpacks and cameras unattended and always bring safe inside your clothing, money or travelers checks, their air tickets and passport. It is highly advisable to avoid taking them into his backpack. We would also suggest that before your trip underwrites insurance for "lost luggage" and "interruption of stay".
+
+Coin
+The Bolivian currency is the Boliviano. Floating exchange rate, set around 8.07 bolivianos per 1 $ US (February 2005). Bring US dollars (in kind) and a credit card (possible withdrawals in almost every major city). Travelers checks can be exchanged at exchange houses and are accepted only in very few establishments (Terra Andina does not accept them).
+
+Purchases
+Country gold and silver. very interesting prices. The craftsmanship is superb and inexpensive (fabrics, clothing, leather, wood, ceramics, musical instruments, ...).
+
+Gastronomy
+The trout of Lake Titicaca. The ceviche (fish marinated in lime). Traditional dishes: empanadas, the fricassee, chuño (dehydrated potatoes), chicha (corn alcohol), the chairo (potato flour soup), the saice (ground meat and rice in sauce).
+
+best season
+From march to november. If the days are hot, evenings can be very cool in the Altiplano. In general, sun and blue sky. From December to March rainy season.
+
+Height
+A good acclimatization is needed to perform a sports activity in the Altiplano. Generally, after two days in La Paz, discomfort (headache, loss of appetite) disappear. Our circuits are studied to obtain a progressive acclimatization. If symptoms persist (rare), we take care with specialized doctors of the Bolivian Institute of Altura.
+More information about height, its causes, its effects, our advice: click here
+
+Comfort
+Some of our circuits induce hardiness and sometimes unforeseen local conditions. Not involve athletic feats, they require only a good physical condition and ability to adapt. In all cases, the comfort remains one of our priorities in choosing hotels or campgrounds.
+In certain regions, particularly in the Lipez (south of Uyuni) or in unfrequented areas of the Altiplano, sleep and remain in precarious conditions.
+Accommodations for which indicated "limited comfort" are often rooms "where the local" sometimes, shelters (eg in Laguna Colorada or in the Green lagoon)
+In these places it is almost impossible to make advance bookings, allocation of accommodation is generally carried out by order of arrival of l group.
+The rooms are devoid of decoration. It may be dormitories and beds (sometimes bunk beds) are very simple (one sheets cot + mattress + blankets, very rarely that can not be washed often due to lack of water).
+The floor is dirt or cement, very rarely tile.
+Accommodations have no heat. Sometimes they have electricity but only for a few hours a day (usually from 19:00 to 21:00).
+Some shelters are equipped with showers (not always) and health are the most basic (including cleaning).
+Finally note that in the Altiplano, temperature, although it may be nice during the day, low once the sun sets.
+In winter (June to August) temperatures can reach -30 ° C at night. A good sleeping bag is essential, both against the cold as a matter of hygiene.
+Our teams in the field (inhabitants, owners shelters) will be available to provide the best possible accommodation.
+
+Weather
+Sucre and surroundings: warm during the day, with intense sun. Fresh overnight (average heights 2100-3500 m).
+Salar de Uyuni: sunny during the day (15th-20th), cold at night (altitude: 3600 m).
+Lake Titicaca: sunny during the day (15th-20th), cold at night (altitude: 3815 m).
+The departure dates are scheduled during the dry season in Bolivia and the Andes in general. However, this does not exclude the blow South, south wind, coming from Antarctica, Tierra del Fuego and Patagonia. For some days there may be a cold wind, snow and rain."
+    </string>
+</resources>

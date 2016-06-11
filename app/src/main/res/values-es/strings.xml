@@ -1,0 +1,165 @@
+<resources>
+    <string name="str_en">Ingles</string>
+    <string name="str_es">Español</string>
+    <string name="str_pt">Portugues</string>
+    <string name="str_ja">Japones</string>
+    <string name="str_zh">Chino</string>
+    <string name="str_ar">Arabe</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_pt</item>
+        <item>@string/str_ja</item>
+        <item>@string/str_zh</item>
+        <item>@string/str_ar</item>
+    </string-array>
+    <string name="str_button">Cambiar Idioma</string>
+
+    <string name="exit">Pulse de nuevo para salir</string>
+    <string name="permiso_para_gps">la aplicacion quiere acceder a su ubicacion porfavor active su GPS</string>
+    <string name="Esperando">Esperando..</string>
+    <string name="ver_mas">Ver mas..</string>
+
+    <string name="informacion">Infomacion..</string>
+    <string name="farmacia">Farmacia</string>
+    <string name="hospital">Hospital</string>
+    <string name="centro">Centro de Salud</string>
+    <string name="iglesia">Iglesia</string>
+    <string name="mirador">Mirador</string>
+    <string name="policia">Policia</string>
+    <string name="museo">Museo</string>
+    <string name="plaza">Plaza</string>
+    <string name="parque">Parque</string>
+
+    <string name="fab_title_1">Ayuda/policia</string>
+    <string name="fab_title_2">hospital/farmacias</string>
+    <string name="fab_title_3">Lugares inperdibles</string>
+    <string name="fab_title_4">Iglesias/plazas/museos</string>
+
+
+    <string name="Home">Sobre Bolivia</string>
+    <string name="comunidad">Comunidad</string>
+    <string name="idioma">Idioma</string>
+    <string name="acerca_de_app">Acerca de MyBoliviaApp</string>
+    <string name="desarrollado_por">DESARROLLADO POR</string>
+    <string name="agradecimientos_">AGRADECIMIENTOS</string>
+    <string name="ciudades">Ciudades</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="descripcion_app">MyBoliviApp es una aplicacion destinado al uso turistico de bolivia para el facil acceso de informacion en disticntos idiomas.\n\nMostrando puntos que le serian utiles a los turistas con un brebe resumen en su idioma</string>
+    <string name="agradecimientos">Gracias a <b><u>NicolasMollet"Maps Icons Collection"</u></b> por los iconos del mapa.</string>
+
+    <string name="descripcion_titicaca">
+        "El lago <h1>Titicaca</h1> es un cuerpo de agua ubicado en el Altiplano andino, en los Andes Centrales a una altitud promedio de 3812 msnm entre los territorios de Bolivia y Perú. Posee un área de 8562 km² de los cuales el 56 % (4772 km²) corresponden a Perú y el 44 % (3790 km²) a Bolivia y 1125 km de costa;2 su profundidad máxima se estima en 281 m y se calcula su profundidad media en 107 m. Su nivel es irregular y aumenta durante el verano austral.\n\n"
+        "Está formado por dos cuerpos de agua separados por el estrecho de Tiquina; el más grande situado al norte es denominado lago Mayor o Chucuito tiene una superficie de 6450 km², estando en esta parte su mayor profundidad (283 m), cerca de la isla Soto. El otro cuerpo más pequeño llamado Menor o Huiñamarca situado al sur tiene una superficie de 2112 km², con una profundidad máxima de 45 metros.El lago Titicaca se encuentra entre las cordilleras andinas en una cuenca de alrededor de 58 000 km². Es el lago navegable más alto del mundo y ocupa el lugar 19 del mundo por superficie.\n"
+    </string>
+    <string name="descripcion_isla_del_sol">
+        "La isla del Sol o isla Titicaca es una isla boliviana situada en el lago Titicaca perteneciente a la provincia de Manco Kapac en el departamento de La Paz. Tiene una longitud de 9,6 km por 4,6 km de ancho y una superficie de 14,3 km². Es la isla más grande del lago, su nombre original es isla Titikaka y por ello el lago donde se encuentra lleva su nombre, que significa "puma de piedra".\n\n"
+        "Presenta un relieve accidentado con muchas terrazas debido al cultivo de antiguos pobladores incas. La isla en la época inca era un santuario con un templo con vírgenes dedicadas al dios Sol o Inti y de ahí su nombre.\n\n"
+        "La mayor parte de la isla está poblada por indígenas de origen quechua y aymara, dedicados a la agricultura, el turismo, artesanía y el pastoreo. Los idiomas que hablan son las lenguas ancestrales, como el quechua y aymara, como también el español.\n"
+    </string>
+    <string name="descripcion_muela_de_diablo">
+        "La Muela del Diablo es una colina ubicada cerca de la ciudad de La Paz, Bolivia, a 300 metros de altura. Se ubica entre las serranías de la zona sur, cerca de los barrios de Calacoto, Aunquisamaña, Los Pinos, Mallasa y Mallasilla. Es uno de los lugares turísticos de la ciudad, visible desde la ciudad y El Alto.\n\n"
+        "Descripción\n
+        Es una de las formaciones erosionadas del sur de La Paz. Una inmensa roca con forma de muela humana que se yergue por sobre las demás, de un color rojizo, de ahí el nombre Muela del Diablo. Está ubicada sobre un terreno arcilloso y resbaloso parecido a un fiordo\n\n"
+        "Mitos y leyendas\n Algunos nativos narran ciertos cuentos o leyendas sobre esta colina. Se dice que hubo una batalla campal entre ángeles y demonios en el cielo, uno de los arcángeles golpeó a un demonio y éste escupió su muela cayendo donde actualmente se encuentra la serranía en plena lucha. También cuentan que las personas que la visitan quedan encantadas, además se dice también que allí habitan duendes, incluso ciertos testimonios sobre personas desaparecidas.\n"
+    </string>
+
+    <string name="descripcion_picion_de_san_pedro">
+        "La prisión de San Pedro o el Penal de San Pedro es la prisión más grande de Bolivia ubicada en la ciudad de La Paz. Es reconocida principalmente por tener una sociedad interna.\n\n"
+        "Características Principales\nLa prisión o Penal de San Pedro es particularmente diferente de las demás prisiones, los reos en esta prisión tienen trabajos dentro de las instalaciones, pagan o alquilan sus dormitorios, y a menudo viven con sus familiares. La venta de cocaína a los turistas otorga a los reclusos una significante entrada de dinero y un inusual sentimiento de libertad dentro de las paredes de la prisión. Líderes de la prisión elegidos previamente hacen cumplir las leyes de la comunidad, donde los ataques con armas punzo-cortantes son cosa común.\n\n"
+        "La prisión alberga aproximadamente 1,500 reos, más los invitados que se hospedan en el hotel de la prisión. El libro “Marching powder” (“Polvo que se va” en español), escrito por Rusty Young, acerca de sus experiencias durante una estancia de cuatro meses de visita en la prisión fue publicado en el año 2003. (La propuesta de la novela de Rusty Young, basada en las experiencias propias y las de Thomas McFadden (un ex recluso de San Pedro), no es una referencia que deba ser considerada como oficial. Se trata de una novela, en la que se destacan aspectos de trama atractiva al lector. La enciclopedia libre puede contar con otra información de fuentes válidas).\n"
+    </string>
+    <string name="descripcion_ilimani">
+        "El Illimani, con 6462 metros sobre el nivel del mar, es una montaña de Bolivia, ubicada cerca de la ciudad de La Paz. Es la segunda mayor altura de la Cordillera Real (la cumbre más alta de Bolivia es el Sajama). Se encuentra ubicado en la Provincia de Pedro Domingo Murillo.\n\n"
+        "El contraste entre la gran depresión en donde se ubica la ciudad de La Paz y el extenso y blanco Illimani es sorprendente, hacia el sureste de la ciudad. Las distancias entre la capital boliviana y las alturas, entre la cultura urbana y la andina son mínimas y en pocos lugares del mundo encontramos una combinación como en La Paz. Los crepúsculos vespertinos, con los aires siempre despejados de La Paz, son todo un espectáculo; y mientras la ciudad empieza a refulgir en toda su extensión, el Illimani va pasando por diferentes tonos de colores, hasta extinguirse todo colorido en el blanco pálido y eterno que son las nieves y hielos del nevado, invirtiendo el proceso al alba. Illimani es una voz de la lengua aimara que quiere decir "águila dorada".\n\n"
+        "El Illimani es un enorme macizo de más de 8 km de longitud y cuatro cumbres que sobrepasan los 6000 msnm. Estas discurren de noroeste a sureste, y de ellas es el último nevado de la Cordillera Real de norte a sur; por el norte el cordón comienza con el Nevado Illampu y termina por el sur con el Illimani (suroeste). El Illimani se formó por la presión de placas tectónicas y está compuestos por rocas plutónicas (granodiorita y monzonita) con una edad de entre 208 y 23 millones de años.\n"
+    </string>
+    <string name="descripcion_plaza_murillo">
+        "La Plaza Murillo está situada en el centro de la ciudad de La Paz, se convirtió en el centro del poder político de Bolivia después del traslado del Poder Ejecutivo a La Paz como resultado de la Guerra Federal de 1899, manteniéndose la capitalía en la ciudad de Sucre.\n\n"
+        "Historia\nEste espacio fue concebido 10 años después de la fundación de la Ciudad de Nuestra Señora de La Paz, el 20 de octubre de 1548, es decir en 1558 por encargo del corregidor Ignacio de Aranda\n\n"
+        "Esta plaza se diseñó al otro lado del río Choqueyapu muy alejado de la plaza principal en Churubamba donde Alonso de Mendoza fundó la ciudad. El diseño obedeció a la ordenanza de las ciudades españolas delineadas en forma de damero, con manzanas simétricas, rectangulares y de iguales dimensiones\n"
+    </string>
+    <string name="descripcion_valle_de_la_luna">
+        "El Valle de la Luna es una formación rocosa que se encuentra a unos 10 kilómetros del centro de La Paz, Bolivia, su nombre fue dado por Neil Armstrong primer hombre en pisar la luna, quien se encontraba de visita en la sede de gobierno boliviana el año 1969.\n\n"
+        "El Valle de la Luna es una sección donde la erosión ha consumido la parte superior de una montaña. No siendo el suelo sólido, arcilla en vez de roca, con el transcurso de los siglos los elementos han creado una obra de arte algo diferente. Es como un desierto de estalagmitas. Es igual a otra zona de La Paz, conocida como el Valle de las Ánimas.\n\n"
+        "Las montañas alrededor de La Paz son de arcilla. Lo interesante es que esta arcilla contiene ciertos minerales y tal parece que no son los mismos o su porcentaje varía de una a otra montaña. Como consecuencias el color de las faldas es diferente, creando ilusiones ópticas muy atractivas. En su mayoría son de un color claro parecido al color beige o castaño muy pálido. También se encuentran zonas que son casi color rojo además de presentar colores violeta oscuro.\n"
+    </string>
+    <string name="descripcion_tiahuanaco">
+        "Tiahuanaco o Tiwanaku es una antigua ciudad arqueológica capital del estado tiahuanacota ubicada en el Departamento de La Paz, Bolivia, a 15 km al sudeste del lago Titicaca.\n\n"
+        "Tiahuanaco fue el centro de la civilización tiahuanaco, una cultura preincaica que basaba su economía en la agricultura, la arquitectura y la ganadería, y que abarcó los territorios de la meseta del Collao, entre el suroeste de Peru, el sureste de Bolivia, el noroeste de Argentina y el norte de Chile, regiones desde las cuales irradió su influencia tecnológica y religiosa hacia otras civilizaciones contemporáneas a ella.\n\n"
+        "La ciudad de Tiahuanaco se caracteriza por su arquitectura decorada con relieves y planos incisos colocados sobre estelas; está compuesta por siete construcciones arquitectónicas importantes: Kalasasaya, Templete Semi-subterráneo, Pirámide de Akapana, Puerta del Sol y Puma Punku también grandes pirámides y esculturas.\n\n"
+        "Testimonio de una importante cultura preincaica, la cultura Tiahuanaco poseía un puerto en el Lago Titicaca aunque ahora se encuentre a 15 km de distancia de él. La magnificencia de su cultura se refleja en su excelente obra cerámica con los famosos queros (vasos ceremoniales), los huaco-retratos (retrato tridimensional de un rostro humano en una vasija) así como los textiles y sobre todo en las construcciones arquitectónicas, muchas de las cuales poseen orientación astronómica.\n"
+    </string>
+    <string name="descripcion_Bolivia" >
+        "Bolivia (quechua: Puliwya; aimara: Wuliwya; guaraní: Volívia), oficialmente Estado Plurinacional de Bolivia, es un país situado en el centro-oeste de América del Sur, cuenta con una población de cerca de 10,1 millones de habitantes. Limita al norte y al este con Brasil, al sur con Paraguay y Argentina, y al oeste con Chile y Perú, no tiene salida al mar. Su superficie es la sexta más extensa de Iberoamérica y comprende distintos espacios geográficos como la cordillera de los Andes, el Altiplano, la Amazonía, los Llanos de Moxos y el Chaco, siendo así uno de los países con mayor biodiversidad en el mundo.
+
+Políticamente, se constituye como un estado plurinacional, descentralizado con autonomías. Se divide en nueve departamentos y mantiene una reclamación territorial a Chile por una salida soberana al océano Pacífico. Sucre es la capital y sede del órgano judicial, mientras que La Paz es la sede de los órganos ejecutivo, legislativo y electoral.
+
+En su territorio se desarrollaron civilizaciones antiguas como Tiwanaku, la Cultura Hidráulica de las Lomas y la cultura moxeña. Primero los incas y posteriormente los conquistadores españoles dominaron el territorio hasta que el país se independizó en 1825. Al haber desarrollado las tradiciones con un mestizaje de las culturas precolombinas con la cultura española, es un país multiétnico y pluricultural, rico en la mezcla y sincretismo de costumbres y tradiciones recibidas de los pueblos indígenas y los conquistadores españoles.
+
+Superficie
+
+1 millón km2 (aproximadamente 2 veces Francia).
+
+Población
+
+9,2 millones de habitantes de los cuales de 100 personas el 70  son indígenas (esencialmente Quechuas y Aymaras), 25  de mestizos y 5  de origen europeo.
+Mas información: Pueblos de Bolivia
+
+Lenguas oficiales
+
+Español, Aymara, Quechua.
+
+Símbolo oficial
+
+La Kantuta, flor con los colores de la bandera nacional boliviana
+Mas información: La leyenda de la Kantuta
+
+Régimen Político
+
+Democracia. A pesar de su pasado turbulento, Bolivia vive desde 1981 bajo un régimen democrático estable.
+
+Seguridad
+
+- Nuestra vocación es la de acompañarlo por los caminos de la aventura, ahí donde otros no van. Sin embargo, ciertas actividades como el rafting o las ascensiones en los Andes exigen el respeto de ciertas normas de seguridad. Usted estará acompañado por guías especializados, equipados con material de calidad.
+- Bolivia es sin duda uno de los países más seguros del continente. A pesar de ello, le prevenimos contra ciertas prácticas cada vez más comunes, el robo en general y los escenarios rocambolescos (falsos policías, manchas en la ropa, escupidas, etc…). Algunos lugares se prestan más que otros, particularmente las centrales de autobuses o de tren, los restaurantes y en general todos los lugares públicos frecuentados por los viajeros.
+Le recomendamos estar atento durante sus desplazamientos y estadía en la ciudad, viajar con lo indispensable, no dejar sus mochilas y cámaras fotográficas sin vigilancia y siempre, llevar seguro dentro de su ropa, el dinero o travellers cheques, sus boletos de avión y pasaporte. Es altamente aconsejable evitar llevarlos en su mochila. Le sugerimos igualmente que antes de su viaje contrate un seguro por «perdida de equipaje» e «interrupción de estadía».
+
+Moneda
+La moneda boliviana es el Boliviano. Tipo de cambio variable, fijado alrededor de 8,07 bolivianos por 1 $us (febrero 2005). Traer dólares americanos (en especie) y una tarjeta de crédito (retiros posibles en casi todas las grandes ciudades). Los travellers cheques se cambian en las casas de cambio únicamente y son aceptados en muy pocos establecimientos (Terra Andina no los acepta).
+
+Compras
+País del oro y de la plata. Precios bastante interesantes. La artesanía es magnífica y barata (telas, ropa, cuero, madera, cerámica, instrumentos musicales, …).
+
+Gastronomía
+Las truchas del lago Titicaca. El ceviche (pescado marinado en limón verde). Los platos tradicionales : empanadas, el fricassé, el chuño (papa deshidratada), la chicha (alcohol de maíz), el chairo (sopa de chuño), el saice (carne molida y arroz en salsa).
+
+Mejor temporada
+De marzo a noviembre. Si los días son calurosos, las tardes pueden ser muy frescas en el Altiplano. En general, sol y cielo azul. De diciembre a marzo, temporada de lluvia.
+
+Altura
+Una buena aclimatación es necesaria para realizar una actividad deportiva en el Altiplano. Generalmente, después de dos días en La Paz, las molestias (dolor de cabeza, pérdida del apetito) desaparecen. Nuestros circuitos están estudiados para obtener una aclimatación progresiva. En caso de que los síntomas persistan (poco común), nos hacemos cargo con médicos especializados del Instituto Boliviano de la Altura.
+Más información sobre la altura, sus causas, sus efectos, nuestros consejos: haga clic aquí
+
+Confort
+Algunos de nuestros circuitos inducen a veces la rusticidad y los imprevistos de las condiciones locales. No implican hazañas deportivas, exigen solamente una buena condición física y capacidades de adaptación. En todos los casos, el confort sigue siendo una de nuestras prioridades en la elección de hoteles o los lugares para acampar.
+En ciertas regiones, particularmente en el Lipez (al sur de Uyuni) o en las zonas poco frecuentadas del Altiplano, dormirá y permanecerá en condiciones precarias.
+Los alojamientos por los cuales indicamos «confort limitado» son frecuentemente habitaciones «donde el lugareño», en algunas ocasiones, refugios (por ejemplo en la laguna Colorada o en la laguna Verde)
+En estos lugares es casi imposible hacer reservas anticipadas, la atribución de alojamientos se realiza en general por orden de llegada de l grupo.
+Las habitaciones están desprovistas de decoración. Puede tratarse de dormitorios colectivos y las camas (en ocasiones literas) son muy simples (un catre + un colchón + mantas, muy rara vez sábanas que no pueden ser lavadas a menudo por falta de agua ).
+El piso es de tierra o de cemento, muy rara vez de azulejos.
+Los alojamientos no tienen calefacción. A veces tienen electricidad pero solamente durante algunas horas al día (en general de 19:00 a 21:00).
+Algunos albergues están equipados con duchas (no siempre) y los sanitarios son de lo más básico (incluyendo la limpieza).
+Finalmente tome en cuenta que en el Altiplano, la temperatura, si bien puede ser agradable durante el día, baja una vez que el sol se acuesta.
+En invierno, (de junio a agosto) la temperatura puede llegar a -30ºC por las noches. Un buen saco de dormir es indispensable, tanto para protegerse del frío como por cuestión de higiene.
+Nuestros equipos en el terreno (habitantes, propietarios de refugios) estarán a su disposición para proporcionarle las mejores condiciones posibles de alojamiento.
+
+Clima
+Sucre y los alrededores : caluroso durante el día, con un sol intenso. Fresco durante la noche (alturas promedio de 2100 a 3500 m).
+Salar de Uyuni : soleado durante el día (15º-20º), frío de noche (altura : 3600 m).
+Lago Titicaca : soleado durante el día (15º-20º), frío de noche (altura : 3815 m).
+Las fechas de salida están previstas durante la temporada seca en Bolivia y en los Andes en general. Sin embargo, esto no excluye el el golpe del Sur, viento del sur, que llega de la Antártica, la Tierra del Fuego y de la Patagonia. Durante algunos días puede haber un viento frío, nieve y lluvia."
+    </string>
+
+</resources>

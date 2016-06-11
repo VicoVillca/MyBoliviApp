@@ -1,0 +1,165 @@
+<resources>
+    <string name="str_en">Inglês</string>
+    <string name="str_es">espanhol</string>
+    <string name="str_pt">português</string>
+    <string name="str_ja">japonês</string>
+    <string name="str_zh">chinês</string>
+    <string name="str_ar">Arabe</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+        <item>@string/str_pt</item>
+        <item>@string/str_ja</item>
+        <item>@string/str_zh</item>
+        <item>@string/str_ar</item>
+    </string-array>
+    <string name="str_button">Mudar Idioma</string>
+
+    <string name="exit">Pressione novamente para salir</string>
+    <string name="permiso_para_gps">O aplicativo deseja acessar seu local ative seu GPSS</string>
+    <string name="Esperando">Esperando..</string>
+    <string name="ver_mas">Ver mais..</string>
+
+    <string name="informacion">informação..</string>
+    <string name="farmacia">Farmácia</string>
+    <string name="hospital">Hospital</string>
+    <string name="centro">Centro de Saúde</string>
+    <string name="iglesia">Igreja</string>
+    <string name="mirador">janela saliente</string>
+    <string name="policia">polícia</string>
+    <string name="museo">museu</string>
+    <string name="plaza">praça</string>
+    <string name="parque">Parque</string>
+
+    <string name="fab_title_1">Ajuda / polícia</string>
+    <string name="fab_title_2">hospitalar / farmácia</string>
+    <string name="fab_title_3">lugares interessantes</string>
+    <string name="fab_title_4">Igrejas / Locais / museus</string>
+
+
+    <string name="Home">Sobre Bolivia</string>
+    <string name="comunidad">comunidade</string>
+    <string name="idioma">Idioma</string>
+    <string name="acerca_de_app">Sobre MyBoliviaApp</string>
+
+    <string name="desarrollado_por">DESENVOLVIDO POR</string>
+    <string name="agradecimientos_">AGRADECIMENTOS</string>
+
+    <string name="ciudades">cidades</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="descripcion_app">MyBoliviApp É uma aplicação para uso turístico da Bolívia para facilitar o acesso da informação em línguas disticntos.\n\nMostrando pontos que são úteis para turistas com Brebes resumidos na sua língua</string>
+    <string name="agradecimientos">Graças a <b><u>NicolasMollet"Maps Icons Collection"</u></b> por ícones do mapa.</string>
+
+    <string name="descripcion_titicaca">
+        "Lago Titicaca é um corpo de água localizado no Altiplano andino, na região central dos Andes a uma altitude média de 3812 metros acima do nível do mar entre os territórios da Bolívia e do Peru. Tem uma área de 8562 quilómetros quadrados, dos quais 56% (4.772 km²) correspondem ao Peru e 44% (3790 km²) na Bolívia e 1125 km de litoral ;. 2 sua profundidade máxima é estimada em 281 m, e sua profundidade média é estimada em 107 m seu nível é irregular e aumenta durante o verão \n austral. \n "
+        "Ele consiste de dois corpos de água separadas pelo estreito de Tiquina, a maior localizada no norte é chamado de Lago Maggiore ou Chucuito tem uma área de 6450 km², a sua maior profundidade (283 m), sendo nesta parte, perto da ilha Soto. o outro corpo menor chamado Minor ou Huiñamarca localizado a sul tem uma área de 2112 quilómetros quadrados, com uma profundidade máxima de 45 metros de distância.O lago Titicaca está entre as montanhas andinas em uma bacia de cerca de 58.000 quilómetros quadrados. é a mais altos do mundo e ocupa o 19º no mundo pela superfície do lago navegável. \n "
+    </string>
+    <string name="descripcion_isla_del_sol">
+        "A Ilha da ilha Sun ou Titicaca é uma ilha boliviana localizada no Lago Titicaca pertencente à província de Manco Kapac, no departamento de La Paz. Ele tem um comprimento de 9,6 km por 4,6 km de largura, com uma superfície 14,3 quilômetros quadrados. é a maior ilha do lago, seu nome original é ilha Titikaka e, portanto, o lago onde é leva o seu nome, que significa "puma pedra". \n \n "
+         "Ele apresenta um terreno acidentado com muitas esplanadas, devido ao cultivo do antigo povo inca. Os tempos ilha Inca era um santuário com um templo dedicado ao deus virgem Sol ou Inti e daí o seu nome. \n\ n"
+         "A maior parte da ilha é habitada por origem indígena Quechua e Aymara, dedicada à agricultura, turismo, artesanato e pastagens. As línguas faladas são línguas ancestrais, como Quechua e Aymara, assim como o espanhol. \n "
+    </string>
+    <string name="descripcion_muela_de_diablo">
+        "La Muela del Diablo é um monte situado perto da cidade de La Paz, na Bolívia, a 300 metros de altura. Ele está localizado entre as montanhas do sul, perto dos distritos de Calacoto, Aunquisamaña, Los Pinos, Mallasa e Mallasilla . é um dos pontos turísticos da cidade, visível a partir da cidade e El Alto. \n \n "
+        "Descrição \n
+        É uma das formações erodidas ao sul de La Paz. Uma enorme em forma de um dente humano que se destaca do resto, de uma cor avermelhada, daí o nome do dente do diabo rock. Ele está localizado em um argiloso e escorregadio como um fiorde \n \n "
+        "Mitos e lendas \n Alguns nativos dizer certas histórias ou lendas sobre esta colina. Diz-se que houve uma batalha entre anjos e demônios no céu, um dos arcanjos atingiu um demônio e ele cuspir seu dente caindo onde atualmente está localizada as montanhas em uma luta. eles também têm pessoas que visitam estão deliciados, além de também disse que os elfos vivem lá, até mesmo alguns testemunhos sobre pessoas desaparecidas. \n "
+    </string>
+
+    <string name="descripcion_picion_de_san_pedro">
+        "A prisão de San Pedro e San Pedro prisão é a maior prisão na Bolívia localizado na cidade de La Paz. Ele é conhecido principalmente por ter uma sociedade interna. \n \n"
+        "Características Key \n O prisão ou penal St. Peter é particularmente diferente de outras prisões, os presos nesta prisão têm empregos dentro das instalações, pagar ou alugar seus quartos, e muitas vezes vivem com suas famílias. A venda de cocaína para os turistas dá prisioneiros de um afluxo significativo de dinheiro e um senso incomum de liberdade dentro dos muros da prisão. Líderes prisão eleito previamente cumprir as leis da comunidade, onde os ataques com farelos de armas são comuns. \n \n "
+        "A prisão alberga cerca de 1.500 presos, a maioria dos hóspedes do hotel da prisão. O livro" Marching Pó "(" Dust to ser "em espanhol), escrito por Rusty Young, sobre suas experiências durante uma estada quatro meses que visitam a prisão foi publicado em 2003. (a proposta da novela por Rusty Young, com base em suas próprias experiências e as de Thomas McFadden (a ex-prisioneira de San Pedro), não é uma referência a ser ser considerado oficial. Este é um romance, que destaca os aspectos da envolvente trama o leitor. a enciclopédia pode ter outras fontes de informação válidos). \n "
+    </string>
+    <string name="descripcion_ilimani">
+        "Illimani, com 6462 metros acima do nível do mar, é uma montanha da Bolívia, situada perto da cidade de La Paz. É a segunda maior altura da Cordilheira Real (o pico mais alto na Bolívia é o Sajama). Ele está localizado no Domingo Murillo Província Pedro.\n \n"
+        "O contraste entre a grande depressão onde a cidade de La Paz e extensa branco Illimani está localizado e surpreendentemente, a sudeste da cidade. As distâncias entre a capital boliviana e as alturas, entre a cultura urbana e Andina são lugares mínimas e poucas no mundo que encontramos uma combinação como em La Paz. Os crepúsculos noite, com o ar sempre claro de La Paz, são um espetáculo; e como a cidade começa a brilhar em sua totalidade, o Illimani passa por diferentes tons de cores, tudo colorido extinto até que a neve e gelo branco e eterna pálida são a neve, revertendo o processo de madrugada. Illimani é uma voz da língua aimara significa "águia de ouro".\n\n"
+        "O Illimani é uma enorme massa de mais de 8 km de comprimento e quatro picos superiores a 6000 metros. Estes funcionam de noroeste a sudeste, e um deles é a última neve da Real Cordillera de norte a sul; o cabo norte começa com o Nevado Illampu e termina no sul com o Illimani (sudoeste). O Illimani foi formada pela pressão das placas tectônicas e é composto de rochas plutônicos (granodiorite e monzonite) com uma idade compreendida entre 208 e 23 milhões de anos.\n"
+    </string>
+    <string name="descripcion_plaza_murillo">
+         "O Plaza Murillo está localizado no centro da cidade de La Paz, tornou-se o centro do poder político na Bolívia, após a transferência do poder executivo para La Paz, como resultado da Guerra Federal de 1899, mantendo o status de capital na cidade Sucre. \n \n "
+         "Espaço História \nO foi concebido 10 anos após a fundação da cidade de Nossa Senhora de La Paz em 20 de Outubro, 1548, ou seja, em 1558, por ordem do prefeito Ignacio de Aranda \n \n"
+         "Esta praça foi projetada em todo o longe da praça principal em Churubamba onde Alonso de Mendoza fundou a cidade Choqueyapu Rio. O projeto refletido a ordenança das cidades espanholas descritas layout de grade, com simétrica, retangular e maçãs mesmo tamanho \n "    </string>
+    <string name="descripcion_valle_de_la_luna">
+        "O Vale da Lua é uma formação rochosa que fica a cerca de 10 km do centro de La Paz, na Bolívia, o seu nome foi dado pelo primeiro homem Neil Armstrong na lua, que estava de visita na sede do governo boliviano 1969. \n \n "
+        "O Vale da Lua é uma seção onde a erosão tem consumido o topo de uma montanha. Não sendo o terreno sólido, argila, em vez de rock, ao longo dos séculos os elementos criaram uma obra de arte um pouco diferente. é como um deserto de estalagmites. é igual a outra área de La Paz, conhecido como Vale do Animas. \n \n "
+        "As montanhas ao redor de La Paz são a argila. O interessante é que esta argila contém certos minerais e parece que eles não são o mesmo ou seu percentual varia de uma para outra montanha. Como conseqüências a cor das saias é diferente, criando ilusões ópticas muito atraente. eles são principalmente uma cor clara, como bege ou pálido. áreas que são quase vermelho além de apresentar cores violetas escuros também estão disponíveis. \n "
+    </string>
+    <string name="descripcion_tiahuanaco">
+        "Tiahuanaco ou Tiwanaku é uma antiga capital de Tiahuanaco estado arqueológico localizado no Departamento de La Paz, Bolívia, 15 km ao sudeste de Lago Titicaca. \n \n"
+        "Tiwanaku foi o centro da civilização Tiwanaku, uma cultura pré-inca que baseou a sua economia na agricultura, arquitetura e pecuária, e abrangendo os territórios do planalto de Collao, entre o Peru sudoeste, sudeste da Bolívia, o noroeste da Argentina e do norte do Chile, regiões de onde irradiava influência tecnológica e religiosa a outras civilizações contemporâneas a ela. \n \n "
+        "A cidade de Tiwanaku é caracterizada por sua arquitetura decorado com relevos e incisão desenhos colocados no estelas é composto por sete grandes construções arquitetônicas: Kalasasaya, PA Semi-subterrâneas, Akapana pirâmide, Puerta del Sol e Puma Punku também grandes pirâmides e esculturas . \n \n "
+        "Testemunho de uma importante cultura pré-inca, a cultura Tiwanaku tinha um porto no Lago Titicaca, mas agora é a 15 km de distância a partir dele. A magnificência da sua cultura se reflete em seu excelente trabalho de cerâmica com queros famosos (vasos cerimoniais) os Huaco-retratos (retrato tridimensional de um rosto humano em uma bacia), bem como têxteis e especialmente em construções arquitetônicas, muitos dos quais têm orientação astronômica. \n "
+    </string>
+    <string name="descripcion_Bolivia" >
+        "Bolívia (Quechua: Puliwya; Aymara: Wuliwya; Guarani: Volivia), Estado oficialmente Plurinacional da Bolívia, é um país localizado no centro-oeste da América do Sul, tem uma população de cerca de 10,1 milhões. Delimitada a norte e leste pelo Brasil, ao sul de Paraguai e Argentina, ea oeste com o Chile e Peru, não tem saída para o mar. Sua superfície é o sexto maior da América Latina e conta com diferentes áreas geográficas como os Andes, Altiplano, a Amazon, o Llanos de Moxos e Chaco, sendo assim um dos países de maior biodiversidade do mundo.
+
+Politicamente, é constituído como um Estado plurinacional, descentralizada, com autonomias. Ela é dividida em nove departamentos e mantém uma reivindicação territorial para o Chile para o acesso soberano ao Oceano Pacífico. Sucre é a capital e sede do Poder Judiciário, enquanto La Paz é a sede dos poderes executivo, legislativo e órgãos eleitorais.
+
+Em seu território civilizações antigas, como Tiwanaku, Cultura hidráulico da Hills e da cultura moxeña desenvolvido. Primeiro, os Incas e mais tarde os conquistadores espanhóis dominaram o território até que o país se tornou independente em 1825. Tendo desenvolvido uma tradição de cruzamento de culturas pré-colombianas com a cultura espanhola, é um rico multi-étnica, país multicultural na mistura e do sincretismo costumes e tradições recebidas de povos indígenas e os conquistadores espanhóis.
+
+superfície
+
+1 milhão de km2 (aproximadamente 2 vezes da França).
+
+população
+
+9,2 milhões de habitantes, dos quais 70 100 pessoas são nativos (essencialmente Quechuas e aymaras), 25 mestiços e 5 de origem europeia.
+Mais informações: Povos da Bolívia
+
+línguas oficiais
+
+Espanhol, aimara, quíchua.
+
+símbolo oficial
+
+O Kantuta, flor com as cores da bandeira nacional boliviana
+Mais informações: The Legend of Kantuta
+
+regime político
+
+Democracia. Apesar de seu passado turbulento, Bolívia viveu desde 1981 sob um regime democrático estável.
+
+segurança
+
+- A nossa vocação é acompanhar os caminhos da aventura, onde os outros não vão. No entanto, certas actividades, como rafting ou subidas nos Andes exigir o cumprimento de determinadas normas de segurança. Você será acompanhado por guias, equipados com material de qualidade.
+- A Bolívia é, sem dúvida, um dos países mais seguros do continente. No entanto, nós alertar contra certas práticas cada vez mais comuns, roubo em cenários gerais e fantasiosas (policiais falsos, manchas na roupa, cospe, etc ...). Alguns lugares são mais adequados do que outros, particularmente a central de ônibus ou trem, restaurantes e em geral todos os viajantes freqüentado locais públicos.
+Recomendamos para assistir durante a sua viagem e estadia na cidade, viajando com o essencial, não deixar suas mochilas e câmeras autônoma e sempre trazer segura dentro de sua roupa, dinheiro ou cheques de viagem, suas passagens aéreas e passaporte. É altamente aconselhável para evitar tomá-los em sua mochila. Também gostaria de sugerir que antes de sua viagem subscreve seguros para "bagagem perdida" e "interrupção da estadia".
+
+moeda
+A moeda boliviana é o Boliviano. Taxa de câmbio flutuante, em torno de 8,07 bolivianos por 1 $ US (fevereiro de 2005). Traga dólares norte-americanos (em espécie) e um cartão de crédito (eventual retirada do mercado em quase todas as grandes cidades). cheques de viagem podem ser trocados em casas de câmbio e são aceitos somente em muito poucos estabelecimentos (que Terra Andina não aceitá-los).
+
+compras
+ouro país e prata. preços muito interessantes. O artesanato é (tecidos, vestuário, couro, madeira, cerâmica, instrumentos musicais, ...) excelentes e baratos.
+
+gastronomia
+A truta do lago Titicaca. O ceviche (peixe marinado em limão). Pratos tradicionais: empanadas, o fricassé, chuño (batata desidratada), chicha (álcool de milho), a chairo (batata farinha de sopa), o saice (carne moída e arroz em molho).
+
+melhor temporada
+De março a novembro. Se os dias são quentes, as noites podem ser muito fresco no Altiplano. Em geral, sol e céu azul. De dezembro a março época das chuvas.
+
+altura
+Uma boa aclimatação é necessário para realizar uma atividade esportiva no Altiplano. Geralmente, depois de dois dias em La Paz, desconforto (dor de cabeça, perda de apetite) desaparecer. Nossos circuitos são estudados para obter uma aclimatação progressiva. Se os sintomas persistirem (raro), cuidamos com médicos especializados do Instituto Boliviano de Altura.
+Mais informações sobre a altura, as suas causas, seus efeitos, o nosso conselho: clique aqui
+
+conforto
+Alguns dos nossos circuitos induzir condições locais de robustez e, por vezes imprevistas. Não envolve feitos atléticos, eles requerem apenas uma boa condição física e capacidade de adaptação. Em todos os casos, o conforto continua a ser uma das nossas prioridades na escolha de hotéis ou acampamentos.
+Em certas regiões, em particular no Lipez (sul de Uyuni) ou em áreas unfrequented do Altiplano, sono e permanecer em condições precárias.
+Acomodações para que indicou "conforto limitado" são muitas vezes quartos ", onde o local", por vezes, abrigos (por exemplo, em Laguna Colorada ou na lagoa verde)
+Nesses lugares é quase impossível fazer reservas antecipadas, alocação de alojamento é geralmente realizada por ordem de chegada de l grupo.
+Os quartos são desprovidos de decoração. Pode ser dormitórios e camas (às vezes beliches) são muito simples (cobertores um folhas de berço + colchão +, muito raramente que não pode ser lavado muitas vezes devido à falta de água).
+O chão é de terra ou cimento, muito raramente telha.
+As acomodações possuem nenhum calor. Às vezes, eles têm eletricidade, mas apenas por algumas horas por dia (geralmente 19:00-21:00).
+Alguns abrigos são equipados com chuveiros (nem sempre) e saúde são os mais básicos (incluindo limpeza).
+Finalmente, note que, no Altiplano, temperatura, embora possa ser agradável durante o dia, baixa uma vez o sol se põe.
+No inverno (junho a agosto), as temperaturas podem chegar a -30 ° C durante a noite. Um bom saco de dormir é essencial, tanto contra o frio como uma questão de higiene.
+As nossas equipas no terreno (habitantes, proprietários abrigos) estará disponível para fornecer a melhor acomodação possível.
+
+tempo
+Sucre e subúrbios: quentes durante o dia, com um intenso sol. overnight frescos (alturas médias 2100-3500 M).
+Salar de Uyuni: ensolarado durante o dia (15o ao 20o), frio à noite (altitude: 3600 m).
+Lago Titicaca: ensolarado durante o dia (15o ao 20o), frio à noite (altitude: 3815 m).
+As datas de partida estão programados durante a estação seca na Bolívia e dos Andes em geral. No entanto, isto não exclui o golpe do Sul, vento sul, vindo de Antarctica, Terra do Fogo e Patagônia. Por alguns dias, pode haver um vento frio, neve e chuva."
+    </string>
+</resources>
